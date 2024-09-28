@@ -3,6 +3,7 @@ public class Suministrador
     private String nombre;  
     private String pais;
     private int tiempodeentrega;
+    // adadadadadadadadadad
 //-------------------------------------------------------------------------------------------------------
     public Suministrador(String nombre, String pais, int tiempodeentrega)
     {
