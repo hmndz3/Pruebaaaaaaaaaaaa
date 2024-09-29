@@ -7,6 +7,7 @@ public class Suministrador
 //-------------------------------------------------------------------------------------------------------
     public Suministrador(String nombre, String pais, int tiempodeentrega)
     {
+        //sdfsdfsdfsdfsdfsdfsdfsdf
         this.nombre = nombre;
         this.pais = pais;
         this.tiempodeentrega = tiempodeentrega;
